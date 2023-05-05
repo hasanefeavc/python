@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri May 05 07:15:13 UTC 2023","Fri May 05 07:15:25 UTC 2023","11704","","","","","","Login to OrangeHRM with valid parameters",""
+"failed","Fri May 05 07:15:25 UTC 2023","Fri May 05 07:15:43 UTC 2023","17523","","","","","","Logo presence on OrangeHRM home Page",""

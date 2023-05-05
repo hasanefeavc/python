@@ -1,0 +1,1 @@
+[{"uid":"ee1b714f319aa671","name":"Logo presence on OrangeHRM home Page","time":{"start":1683270925611,"stop":1683270943134,"duration":17523},"status":"failed","severity":"normal"},{"uid":"8c47c212b709d0d3","name":"Login to OrangeHRM with valid parameters","time":{"start":1683271179029,"stop":1683271187324,"duration":8295},"status":"passed","severity":"normal"}]
